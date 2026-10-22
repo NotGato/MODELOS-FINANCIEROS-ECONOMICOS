@@ -1,0 +1,14 @@
+# Fase 2: todos los sesgos activos (son los valores por defecto). Este fichero los deja
+# explícitos para que sea fácil apagar uno y ver qué cambia.
+[comportamiento]
+cambio_estrategia = true
+contagio = true
+sentimiento = true
+atencion_limitada = true
+extrapolacion = true
+conservadurismo = true
+aversion_perdidas = true
+efecto_disposicion = true
+anclaje = true
+exceso_confianza = true
+apalancamiento = true

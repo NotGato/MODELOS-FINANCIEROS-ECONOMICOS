@@ -1,0 +1,6 @@
+# Escenario: el 25% de los agentes opera apalancado (el valor por defecto es 15%).
+# Las posiciones apalancadas pasan a ser casi la mitad del capital del mercado y el
+# sistema queda cerca de un umbral crítico: en muchas semillas aparecen cascadas de
+# llamadas de margen y cracs de un día. Útil para estudiar el riesgo sistémico.
+[agentes]
+frac_apalancados = 0.25

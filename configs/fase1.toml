@@ -1,0 +1,9 @@
+# Fase 1: tres tipos de agente, creador de mercado, cambio de estrategia con contagio,
+# sentimiento, atención limitada y extrapolación. Sin los sesgos de la fase 2.
+[comportamiento]
+conservadurismo = false
+aversion_perdidas = false
+efecto_disposicion = false
+anclaje = false
+exceso_confianza = false
+apalancamiento = false
